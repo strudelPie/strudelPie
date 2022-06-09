@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p>During a recent period of ill-health, when I was very sick, I read a book called 'Code' by Charles Petzold. It's just a book about how computers work. But I was captivated. It sparked a passion. </p>
+<p>During a recent period of ill-health, when I was very sick, I read a book called 'Code' by Charles Petzold. It's just a book about how computers work. But the more I read about logic gates, feedback and flip-flops, I was captivated. It sparked a passion. </p>
 
 <p>I started learning. First Java, then data structures and algorithms, and most recently Javascript, HTML and CSS. Somewhere along the way it became more than a hobby. It helped me through recovery: focusing on something so useful, so broad, and so challenging. And I've been hooked ever since. </p>
 
