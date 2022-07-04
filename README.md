@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div>
-  <div style="display: flex; flex-direction: column">
+  <div style="display: flex; flex-direction: row">
     	<img src="https://user-images.githubusercontent.com/95099173/177192366-765bd321-46a7-46af-bb70-603c4fb1e3d3.png" alt="drawing" width="25"/>
 	<p>Full Stack Developer</p>
   </div>
