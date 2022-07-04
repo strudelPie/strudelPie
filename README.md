@@ -7,9 +7,12 @@
 <p>Currently working in ReactJS, Node.js</p>
 
 <img align="left" width="38" src="https://user-images.githubusercontent.com/95099173/177193563-37be19b6-dca5-408a-81e4-71344796f77d.png">
-<p>Somethinng else</p>
+<p>Check out my pinned projects below or my public repos <a href="https://github.com/strudelPie?tab=repositories">here<a/> 👈</p>
 
 <img align="left" width="38" src="https://user-images.githubusercontent.com/95099173/177193612-6a9456fe-57ce-481b-9c88-01b9de2c1714.png">
+<p>Somethinng else</p>
+
+<img align="left" width="38" src="https://user-images.githubusercontent.com/95099173/177200585-78e47987-b2b1-4a7a-ba77-f08c2b33fed8.png">
 <p>Somethinng else</p>
 
 ## Technologies
