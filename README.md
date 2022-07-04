@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://user-images.githubusercontent.com/95099173/177192366-765bd321-46a7-46af-bb70-603c4fb1e3d3.png" alt="drawing" width="50"/>
+<img src="https://user-images.githubusercontent.com/95099173/177192366-765bd321-46a7-46af-bb70-603c4fb1e3d3.png" alt="drawing" width="25"/>
 
 
 ## Technologies
