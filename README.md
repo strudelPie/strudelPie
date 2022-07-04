@@ -1,24 +1,22 @@
 ## Hi there 👋
 
-<div>
-  <div style="display: flex; flex-direction: row">
-    	<img src="https://user-images.githubusercontent.com/95099173/177192366-765bd321-46a7-46af-bb70-603c4fb1e3d3.png" alt="drawing" width="25"/>
-	<p>Full Stack Developer</p>
-  </div>
-<div style="display: flex;">
-    	<img src="https://user-images.githubusercontent.com/95099173/177193321-c0a80268-1c0f-4689-bac0-032fe959ae4f.png" alt="drawing" width="25"/>
-	<p>Full Stack Developer</p>
-  </div>
-<div style="display: flex;">
-    	<img src="https://user-images.githubusercontent.com/95099173/177193563-37be19b6-dca5-408a-81e4-71344796f77d.png" alt="drawing" width="25"/>
-	<p>Full Stack Developer</p>
-  </div>
-<div style="display: flex;">
-    	<img src="https://user-images.githubusercontent.com/95099173/177193612-6a9456fe-57ce-481b-9c88-01b9de2c1714.png" alt="drawing" width="25"/>
-	<p>Full Stack Developer</p>
-  </div>
-	
+<img align="left" width="38" src="https://user-images.githubusercontent.com/95099173/177192366-765bd321-46a7-46af-bb70-603c4fb1e3d3.png">
+<p>Full Stack Developer</p>
 
+<img align="left" width="38" src="https://user-images.githubusercontent.com/95099173/177193321-c0a80268-1c0f-4689-bac0-032fe959ae4f.png">
+<p>Working On....</p>
+
+<img align="left" width="38" src="https://user-images.githubusercontent.com/95099173/177193563-37be19b6-dca5-408a-81e4-71344796f77d.png">
+<p>Somethinng else</p>
+
+<img align="left" width="38" src="https://user-images.githubusercontent.com/95099173/177193612-6a9456fe-57ce-481b-9c88-01b9de2c1714.png">
+<p>Somethinng else</p>
+
+
+
+
+    	
+	
 
 
 
