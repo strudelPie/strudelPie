@@ -1,7 +1,11 @@
 ## Hi there 👋
 
+![logicGate1](https://user-images.githubusercontent.com/95099173/177192366-765bd321-46a7-46af-bb70-603c4fb1e3d3.png)
+![logicGate2](https://user-images.githubusercontent.com/95099173/177192373-157ad0c6-e66d-4a35-a876-741f75a1a8da.png)
+![logicGate3](https://user-images.githubusercontent.com/95099173/177192377-5e012f61-2057-42b2-9558-8e7d1c546fd3.png)
+![logicGate4](https://user-images.githubusercontent.com/95099173/177192385-78d4a24f-05ef-4745-aefe-39a9650a6746.png)
 
-<a href="https://www.flaticon.com/free-icons/logic-gates" title="Logic gates icons">Logic gates icons created by joalfa - Flaticon</a>
+
 
 ## Technologies
 
