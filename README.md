@@ -12,11 +12,8 @@
 <img align="left" height="22" width="36" src="https://user-images.githubusercontent.com/95099173/177216625-dc4d572d-3b5f-4adc-955d-a449beed9a59.png">
 <p>Find me off GitHub @ [...] </p>
 
-
-
-
 <img align="left" width="38" src="https://user-images.githubusercontent.com/95099173/177200585-78e47987-b2b1-4a7a-ba77-f08c2b33fed8.png">
-<p>Fun fact: Voyager 1 is the most distant human-made object in space at 22.3 billion km from the Sun, travelling at 38,201 miles per hour (17 km/s). It took 35 years to reach interstellar space and it won't encounter another star for 40,000 years! 🤯 </p>
+<p>Fun fact: Voyager 1 is the most distant human-made object in space at 22.3 billion km from the Sun. Travelling at 38,201 mph (17 km/s), it took 35 years to reach interstellar space and won't encounter another star for 40,000 years! 🤯 </p>
 
 ## Technologies
 
