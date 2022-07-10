@@ -28,7 +28,7 @@
 	<img height= "50px" src="https://github.com/strudelPie/media1/blob/main/nodeLogo.png" alt = "Node.js" />
 	<img height= "50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt = "NPM" />
 	<img height= "50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt = "Git" />
-	<img height= "50px" src="https://github.com/facebook/jest/blob/main/website/static/img/jest-readme-headline.png?raw=true" alt = "Jest" />
+	<img height= "50px" src="https://github.com/strudelPie/media1/blob/main/jestLogo.png" alt = "Jest" />
 	
 	
 	
