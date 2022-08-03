@@ -25,12 +25,14 @@
 	<img height= "50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt = "CSS" />
 	<img height= "50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt = "React" />
 	<img height= "50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt = "Webpack" />
-	<img height= "50px" src="https://github.com/strudelPie/media1/blob/main/nodeLogo.png" alt = "Node.js" />
+	<img height= "50px" src="https://user-images.githubusercontent.com/95099173/182666900-60bd83ab-a37c-439d-ba68-2b48daee975f.png" alt = "Node.js" />
 	<img height= "50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt = "NPM" />
 	<img height= "50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt = "Git" />
-	<img height= "50px" src="https://github.com/strudelPie/media1/blob/main/jestLogo.png" alt = "Jest" />
+	<img height= "50px" src="https://user-images.githubusercontent.com/95099173/182666801-d346c889-a626-45f4-b8aa-01a01ad2b5f7.png" alt = "Jest" />
 	
 	
+
+
 	
 </div>
 
