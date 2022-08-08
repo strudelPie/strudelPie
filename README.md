@@ -29,7 +29,10 @@
 	<img height= "50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt = "NPM" />
 	<img height= "50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt = "Git" />
 	<img height= "50px" src="https://user-images.githubusercontent.com/95099173/182666801-d346c889-a626-45f4-b8aa-01a01ad2b5f7.png" alt = "Jest" />
+	<img height= "50px" width= "110px" src="https://user-images.githubusercontent.com/95099173/183505465-43bb9668-6c45-4ee1-8a44-b6eda3cbb373.png" alt = "MongoDB" />
 	
+	
+
 	
 
 
