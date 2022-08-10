@@ -40,7 +40,7 @@
   	<p>'Full Stack JavaScript' @ <a href="https://www.theodinproject.com/paths/full-stack-javascript?">The Odin Project<a/></p>
   </li>
   <li>
-  	<p>'Intermediate Java' @ TeamTreehouse. Check out my profile <a href="https://teamtreehouse.com/profiles/edwardstrudwick2s">here<a/> 👈</p>
+  	<p>'Intermediate Java' @ TeamTreehouse. Check out my profile <a href="https://teamtreehouse.com/profiles/edwardstrudwick2">here<a/> 👈</p>
   </li>
   <li>
   	<p>'M001: MongoDB Basics' @ MongoDB University. <a href="https://university.mongodb.com/course_completion/3e080fd6-493c-4dbb-add2-c9ca529667fe?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing">Completion Certificate<a/></p>
