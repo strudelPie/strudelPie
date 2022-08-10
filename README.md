@@ -37,7 +37,7 @@
 <ul>
 
  <li>
-  	<p>'Full Stack JavaScript' @ <a href="https://www.theodinproject.com/paths/full-stack-javascript?">The Odin Project<a/> 👈</p>
+  	<p>'Full Stack JavaScript' @ <a href="https://www.theodinproject.com/paths/full-stack-javascript?">The Odin Project<a/></p>
   </li>
   <li>
   	<p>'Intermediate Java' @ TeamTreehouse. Check out my profile <a href="https://teamtreehouse.com/profiles/edwardstrudwick2s">here<a/> 👈</p>
