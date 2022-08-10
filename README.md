@@ -7,7 +7,7 @@
 <p>Currently building with the MERN stack (MongoDB, Express, React, Node)</p>
 
 <img align="left" height="22" width="36" src="https://user-images.githubusercontent.com/95099173/177193563-37be19b6-dca5-408a-81e4-71344796f77d.png">
-<p>Check out my pinned projects below or my public repos <a href="https://github.com/strudelPie?tab=repositories" target="_blank" rel="noopener noreferrer">here<a/> 👈</p>
+<p>Check out my pinned projects below or my public repos <a href="https://github.com/strudelPie?tab=repositories">here<a/> 👈</p>
 
 <img align="left" height="22" width="36" src="https://user-images.githubusercontent.com/95099173/177216625-dc4d572d-3b5f-4adc-955d-a449beed9a59.png">
 <p>Find me off GitHub @ [...] </p>
@@ -37,13 +37,13 @@
 <ul>
 
  <li>
-  	<p>'Full Stack JavaScript' @ <a href="https://www.theodinproject.com/paths/full-stack-javascript?" target="_blank" rel="noopener noreferrer">The Odin Project<a/></p>
+  	<p>'Full Stack JavaScript' @ <a href="https://www.theodinproject.com/paths/full-stack-javascript?">The Odin Project<a/></p>
   </li>
   <li>
-  	<p>'Intermediate Java' @ TeamTreehouse. Check out my profile <a href="https://teamtreehouse.com/profiles/edwardstrudwick2" target="_blank" rel="noopener noreferrer">here<a/> 👈</p>
+  	<p>'Intermediate Java' @ TeamTreehouse. Check out my profile <a href="https://teamtreehouse.com/profiles/edwardstrudwick2">here<a/> 👈</p>
   </li>
   <li>
-  	<p>'M001: MongoDB Basics' @ MongoDB University. <a href="https://university.mongodb.com/course_completion/3e080fd6-493c-4dbb-add2-c9ca529667fe?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing" target="_blank" rel="noopener noreferrer">Completion Certificate<a/></p>
+  	<p>'M001: MongoDB Basics' @ MongoDB University. <a href="https://university.mongodb.com/course_completion/3e080fd6-493c-4dbb-add2-c9ca529667fe?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing">Completion Certificate<a/></p>
   </li>
 </ul>
 
