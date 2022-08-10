@@ -32,6 +32,23 @@
 	<img height= "50px" width= "110px" src="https://user-images.githubusercontent.com/95099173/183505465-43bb9668-6c45-4ee1-8a44-b6eda3cbb373.png" alt = "MongoDB" />
 	
 	
+## Recent Courses
+
+<ul>
+
+ <li>
+  	<p>'Full Stack JavaScript' @ <a href="https://www.theodinproject.com/paths/full-stack-javascript?">The Odin Project<a/> 👈</p>
+  </li>
+  <li>
+  	<p>'Intermediate Java' @ TeamTreehouse. Check out my profile <a href="https://teamtreehouse.com/profiles/edwardstrudwick2s">here<a/> 👈</p>
+  </li>
+  <li>
+  	<p>'M001: MongoDB Basics' @ MongoDB University. <a href="https://university.mongodb.com/course_completion/3e080fd6-493c-4dbb-add2-c9ca529667fe?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing">Completion Certificate<a/></p>
+  </li>
+</ul>
+
+
+
 
 	
 
